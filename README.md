@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm emir</h1>
-- 🌱 I’m currently learning **Unity C#**
+🌱 I’m currently learning **Unity C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
